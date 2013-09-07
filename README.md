@@ -1,5 +1,7 @@
 == README
 
+Learning Rails with help from the RailsApp.project
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
