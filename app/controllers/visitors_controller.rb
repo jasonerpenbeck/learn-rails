@@ -2,8 +2,8 @@ class VisitorsController < ApplicationController
 
   def new
     @owner = Owner.new
-    flash[:notice] = 'Welcome!'
-    flash[:alert] = 'My birthday is soon.'
+#    flash[:notice] = 'Welcome!'
+#    flash[:alert] = 'My birthday is soon.'
   end
 
 #flash.now renders immediately when the page is rendered (ex. error message on the same page where the error was committed)
