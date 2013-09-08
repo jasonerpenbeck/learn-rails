@@ -1,0 +1,7 @@
+User Story 1
+*Birthday Countdown*
+As a visitor to the website #User Visitor to name Contoller: visitors_controller.rb
+I want to see the owner's name #User Owner to name View: owner.rb
+I want to see the owner's birthdate
+I want to see how many days until the owner's next birthday
+In order to send birthday greetings
